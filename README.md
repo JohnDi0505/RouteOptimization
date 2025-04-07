@@ -10,8 +10,13 @@ The objective of the Traveling Saleman Problem (TSP) is to figure out a most eff
 
 ### Framework
 
+![WeChat Screenshot_20250406203300](https://github.com/user-attachments/assets/66697cbf-733d-460f-b823-9c8816214d23)
 
 ### Future Work
 
 
 ### Reference
+
+1. Fleischer, R., 2003. IT Fundamentals CSIT570. World Wide Web: http://www.cs.ust.hk/˜rudolf/Courses/Msc03/Script/week2.pdf.
+
+2. Sharma, O., et al. (2005). "Traveling salesperson approximation algorithm for real road networks." ISPRS WG II/1 2(7).
